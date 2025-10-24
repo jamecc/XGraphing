@@ -1,0 +1,23 @@
+XGraphing Release Notes:
+
+v1.0.0.5 (2025-10-22)
+1 support background color for items
+2 support font size and family for items
+3 support line widths
+4 fix bugs
+
+v1.0.0.4 (2025-10-20)
+1 support line shape
+2 support outer line shape
+3 support no outer line
+4 support multiple colors for lines
+5 fix bugs
+
+v1.0.0.3 (2025-10-14)
+1 fix bugs
+
+v1.0.0.2 (2025-10-13)
+1 support undo, redo
+
+v1.0.0.1 (2025-10-10)
+1 mind map
