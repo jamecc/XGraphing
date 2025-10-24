@@ -35,6 +35,6 @@ xgraphing_support@126.com
 
 or visit our website at:
 
-www.navtherm.com/#/xgraphing
+https://www.navtherm.com/#/xgraphing/index
 
 Thank you for choosing XGraphing. We hope it helps you stay organized and efficient in your work!
