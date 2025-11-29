@@ -30,11 +30,9 @@ We take your privacy seriously, and we implement strong security measures to pro
 
 Support:
 If you have any questions or run into any issues, our support team is available to help. Please contact us at:
-
 xgraphing_support@126.com
 
 or visit our website at:
-
-https://www.navtherm.com/#/xgraphing/index
+https://www.xgraphing.com/
 
 Thank you for choosing XGraphing. We hope it helps you stay organized and efficient in your work!
